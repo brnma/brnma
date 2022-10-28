@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">Senior at Virginia Tech studying Computer Science</h3>
+<h3 align="center">Senior @ Virginia Tech studying Computer Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brian-mamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-mamani" height="30" width="40" /></a>
 </p>
-<h3 align="left">Previous software experience at:</h3>
+<h3 align="left">Previous experiences at:</h3>
 <p align="left">
 <a href="https://www.tesla.com/careers/internships" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_200_200/0/1607665771371?e=2147483647&v=beta&t=U60-3BcbnYQD0zrEasbOtVpmXOoxWQly2LMNq3SQOaA" alt="tesla-logo" height="40" width="40" /></a>
 <a href="https://www.ibm.com/employment/accelerate/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_200_200/0/1657054972290?e=2147483647&v=beta&t=aE9FSxlEWf6UUKAoIB75xOru5v8KXtD3V5sR3fOm1wg" alt="ibm-logo" height="40" width="40" /></a>
