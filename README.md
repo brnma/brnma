@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">Senior @ Virginia Tech studying Computer Science</h3>
+<h3 align="center">Computer Science Senior @ Virginia Tech </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
