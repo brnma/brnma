@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Brian</h1>
-<h3 align="center">Computer Science Senior @ Virginia Tech </h3>
+<h3 align="center">Software Engineer @ Tesla </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://www.tesla.com/careers/internships" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_200_200/0/1607665771371?e=2147483647&v=beta&t=U60-3BcbnYQD0zrEasbOtVpmXOoxWQly2LMNq3SQOaA" alt="tesla-logo" height="40" width="40" /></a>
 <a href="https://www.ibm.com/employment/accelerate/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_200_200/0/1657054972290?e=2147483647&v=beta&t=aE9FSxlEWf6UUKAoIB75xOru5v8KXtD3V5sR3fOm1wg" alt="ibm-logo" height="40" width="40" /></a>
+<a href="[https://t2cpartners.com/home](https://www.vt.edu/)" target="blank"><img align="center" src="https://brand.vt.edu/content/brand_vt_edu/en/licensing/university-trademarks/jcr:content/content/vtmulticolumn_1001687044/vt-items_0/adaptiveimage.transform/m-medium/image.png" alt="virginia tech logo" height="40" width="40" /></a>
 <a href="https://t2cpartners.com/home" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8JHcaNOB6iA/company-logo_200_200/0/1653523154956?e=1674691200&v=beta&t=nLImiq6sLGGgPDWH3PCCWNZfXHbszhNCYrFX3voAptA" alt="t2c-logo" height="40" width="40" /></a>
 </p>
 
